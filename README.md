@@ -11,7 +11,7 @@ To use this sample application, there are four different scenarios:
  1. Create a user profile: `python Identification\CreateProfile.py <subscription_key>`
  2. Print all user profiles: `python Identification\PrintAllProfiles.py <subscription_key>`
  3. Enroll user profiles: `python Identification\EnrollProfile.py <subscription_key> <profile_id> <enrollment_file_path>`
- 4. Identify test files: `python Identification\IdentifyFile.py <subscription_key> <identification_file_path> <profile_ids>...`
+ 4. Identify test files: `python Identification\IdentifyFile.py <subscription_key> <identification_file_path> <true/false> <profile_ids>...`
 
 ## Contributing
 We welcome contributions. Feel free to file issues and pull requests on the repo and we'll address them as we can. Learn more about how you can help on our [Contribution Rules & Guidelines](</CONTRIBUTING.md>). 
